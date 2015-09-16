@@ -1,0 +1,41 @@
+body {
+	background: #eee;
+	font-family: 'Source Sans Pro';
+	font-size: 16px;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+.logo-img {
+	background: #E48031;
+	padding: 120px 30px 40px 30px;
+}
+.status-code {
+	font-size: 140px;
+	margin-bottom: 10px;
+}
+.status-message {
+	margin-bottom: 50px;
+}
+h2 {
+	font-family: 'Oswald';
+	font-weight: 400;
+	font-size: 32px;
+	color: #AAAAAA;
+}
+h1 {
+	font-size: 48px;
+	font-family: 'Oswald';
+	font-weight: 400;
+	color: #838383;
+}
+#content {
+	line-height: 2;
+}
+a {
+	color: #559ff0;
+	text-decoration: none;
+}
+a:hover {
+	color: #112e4d;
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4000"
+   height="4000"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="C:\Users\Miha\Flash\AS3\MotoRacer"
+   sodipodi:docname="Map7.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="401.03924"
+     inkscape:cy="3837.3804"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="4000px"
+     height="4000px"
+     inkscape:window-width="1664"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="14" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.5;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:240;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -0.5836906,9.1330394 L 661.26825,-64.406061 L 850.7729,393.79913 L 1795.4675,359.85801 L 2508.2312,130.75541 L 3198.3674,153.38283 L 3481.2101,560.67633 L 3501.0091,1120.7049 L 3283.2202,1536.4837 L 2649.6525,1646.7924 L 2236.7022,1525.17 L 1945.3742,1044.3374 L 2050.026,719.06825 L 2491.2606,597.44589 L 2816.5297,786.9505 L 2974.9216,2427.4382 L 2270.6433,2786.6485 L 1959.5163,2930.8983 L 1767.1833,3309.9075 L 1934.0605,3564.4659 L 2742.9906,3618.2061 L 3291.7055,3414.5593 L 3322.8182,3094.947 L 2983.4069,2987.4668 L 2785.417,3007.2658 L 2050.026,2435.9235 L 1792.6391,2399.154 L 1617.2766,2585.8302 L 1523.9385,2947.8688 L 1430.6004,3216.5694 L 1323.1202,3292.9369 L 1190.1841,3349.5055 L 1071.3902,3374.9613 L 904.513,3386.275 L 644.29769,3377.7898 L 525.50375,3326.8781 L 375.59711,3216.5694 L 313.37172,3089.2902 L 273.77374,2967.6678 L 259.6316,2792.3053 L 253.97475,2583.0017 L 582.07229,2302.9874 L 870.5719,2119.1397 L 748.9495,1926.8066 L 494.39105,1932.4635 L 220.03362,1703.3609 L 596.21443,1477.0867 L 1178.8704,1508.1994 L 1277.8654,1887.2087 L 1693.6442,2178.5367 L 2044.3691,1946.6056 L 1204.3263,883.117 L 802.6896,1024.5384 L 307.71486,984.9404 L 70.126979,835.0338 L -6.2405506,608.75959 L 47.499569,458.85296 L 53.156419,263.69148 L -0.5836906,9.1330394 z "
+       id="path6215" />
+  </g>
+</svg>

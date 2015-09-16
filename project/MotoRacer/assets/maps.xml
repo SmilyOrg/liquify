@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<maps>
+	<map>
+		<name>The Knot</name>
+		<path>Map1.svg</path>
+	</map>
+	<map>
+		<name>Loops</name>
+		<path>Map2.svg</path>
+	</map>
+	<map>
+		<name>Square</name>
+		<path>Map3.svg</path>
+	</map>
+	<map>
+		<name>Twisty</name>
+		<path>Map4.svg</path>
+	</map>
+</maps>
